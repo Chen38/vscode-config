@@ -1,0 +1,12 @@
+{
+	"editor.fontSize": 18,
+	"editor.cursorBlinking": "solid",
+	"editor.tabSize": 2,
+	"editor.wordWrap": true,
+	"files.autoSave": "off",
+	"editor.renderWhitespace": "boundary",
+	"window.showFullPath": true,
+	"markdown.styles": [
+		"file:///C:/Users/barchen/github-markdown.css"
+	]
+}
