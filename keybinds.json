@@ -1,16 +1,26 @@
+// Place your key bindings in this file to overwrite the defaults
 [
 	{
-		"key": "ctrl+d",
-		"command": "editor.action.copyLinesDownAction",
-		"when": "editorTextFocus && !editorReadonly"
+		"key": "shift+cmd+u",
+		"command": "workbench.view.debug"
 	},
 	{
-		"key": "ctrl+shift+d",
+		"key": "shift+cmd+d",
 		"command": "editor.action.deleteLines",
 		"when": "editorTextFocus && !editorReadonly"
 	},
 	{
-		"key": "ctrl+shift+f",
+		"key": "cmd+d",
+		"command": "editor.action.copyLinesDownAction",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "cmd+b",
+		"command": "editor.action.addSelectionToNextFindMatch",
+		"when": "editorFocus"
+	},
+	{
+		"key": "shift+cmd+l",
 		"command": "editor.action.formatDocument",
 		"when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
 	}

@@ -1,12 +1,25 @@
+// Place your settings in this file to overwrite the default settings
 {
-	"editor.fontSize": 18,
-	"editor.cursorBlinking": "solid",
+	"editor.fontSize": 14,
 	"editor.tabSize": 2,
-	"editor.wordWrap": true,
-	"files.autoSave": "off",
-	"editor.renderWhitespace": "boundary",
-	"window.showFullPath": true,
-	"markdown.styles": [
-		"file:///C:/Users/barchen/github-markdown.css"
-	]
+	"editor.cursorBlinking": "solid",
+	"markdown.preview.fontSize": 13,
+	"workbench.statusBar.visible": true,
+	"workbench.activityBar.visible": true,
+	"workbench.sideBar.location": "left",
+	"editor.formatOnSave": false,
+	"window.zoomLevel": 0,
+	"editor.wordWrap": "on",
+	"editor.insertSpaces": false,
+	"workbench.editor.showTabs": true,
+	"typescript.tsdk": "/Users/barry/.nvm/versions/node/v6.9.4/lib/node_modules/typescript/lib",
+	"workbench.iconTheme": "vs-seti",
+	"workbench.welcome.enabled": false,
+	"window.title": "${activeEditorLong}",
+	"workbench.colorTheme": "Atom One Dark",
+	"editor.fontFamily": "Menlo",
+	"editor.detectIndentation": false,
+	"editor.minimap.enabled": false,
+	"editor.formatOnPaste": true,
+	"editor.dragAndDrop": true
 }

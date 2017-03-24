@@ -1,8 +1,18 @@
-#### 安装的 VSCode 插件
+### VSCode 简单配置
 
 感觉并不需要安装太多的插件了，格式化装完后就很够用了，内置集成了 `Emmet` 和 `Git`，还能 `debug`，最关键的是能够 `Markdown` 的预览，还有很多语法提示，特别是对 `NodeJS` 的提示，太爱。
 
-* [beautify][1]
+现在是要开始书写 `TypeScript` 了，想想还是用微软自家的编辑器比较靠谱，代码提示非常全面，其实关键的一点是占用内存是真的小，对于一款编辑器之上，IDE之下的代码编辑器，表现是真的不错。可能以后会真的抛弃 *Sublime Text* 吧，但是快捷键还是从你继承来的嘞。
+
+#### 安装的 VSCode 插件
+
+* [Angular v2 Typescript Snippet][1]
+* [AutoFileName][2]
+* [Beautify][3]
+* [Bracket Pair Colorizer][4]
+* [ESLint][5]
+* [Sass][6]
+* [Vue Components][7]
 
 #### 基本设置
 
@@ -14,7 +24,14 @@
 
 #### 喜欢的主题
 
-* [Dracula][2]
+* [Dracula][8]
+* [Atom One Dark][9]
 
-[1]: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
-[2]: https://draculatheme.com/visual-studio-code/
+[1]: https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+[2]: https://github.com/atom/one-dark-syntax
+[3]: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+[4]: https://github.com/CoenraadS/BracketPair
+[5]: https://github.com/Microsoft/vscode-eslint
+[6]: https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented
+[7]: https://github.com/vuejs/vue-syntax-highlight
+[8]: https://draculatheme.com/visual-studio-code/
