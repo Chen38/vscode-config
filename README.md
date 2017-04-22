@@ -6,12 +6,11 @@
 
 #### 安装的 VSCode 插件
 
-* [Angular v2 Typescript Snippet][1]
-* [AutoFileName][2]
+* [Angular v4 Typescript Snippet][1]
+* [Path Intellisense][2]
 * [Beautify][3]
 * [Bracket Pair Colorizer][4]
 * [ESLint][5]
-* [Sass][6]
 * [Vue Components][7]
 
 #### 基本设置
@@ -27,11 +26,11 @@
 * [Dracula][8]
 * [Atom One Dark][9]
 
-[1]: https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-[2]: https://github.com/atom/one-dark-syntax
-[3]: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+[1]: https://github.com/johnpapa/vscode-angular-snippets
+[2]: https://github.com/ChristianKohler/PathIntellisense
+[3]: https://github.com/HookyQR/VSCodeBeautify
 [4]: https://github.com/CoenraadS/BracketPair
 [5]: https://github.com/Microsoft/vscode-eslint
-[6]: https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented
 [7]: https://github.com/vuejs/vue-syntax-highlight
 [8]: https://draculatheme.com/visual-studio-code/
+[9]: https://github.com/akamud/vscode-theme-onedark
