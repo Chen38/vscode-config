@@ -2,7 +2,7 @@
 {
   "editor.fontSize": 14,
   "editor.tabSize": 2,
-  "editor.cursorBlinking": "solid",
+	"editor.cursorBlinking": "solid",
   "markdown.preview.fontSize": 13,
   "workbench.statusBar.visible": true,
 	"workbench.activityBar.visible": false,
@@ -12,14 +12,19 @@
 	"editor.wordWrap": "on",
 	"editor.insertSpaces": false,
 	"workbench.editor.showTabs": true,
-	"typescript.tsdk": "/Users/barry/.nvm/versions/node/v6.9.4/lib/node_modules/typescript/lib",
+	"typescript.tsdk": "/usr/local/lib/node_modules/typescript/lib",
 	"workbench.iconTheme": "vs-seti",
-	"workbench.welcome.enabled": false,
 	"window.title": "${activeEditorLong}",
 	"editor.fontFamily": "Menlo",
 	"editor.detectIndentation": false,
 	"editor.minimap.enabled": false,
-	"editor.formatOnPaste": true,
+	"editor.formatOnPaste": false,
 	"editor.dragAndDrop": true,
-	"workbench.colorTheme": "Monokai"
+	"path-intellisense.autoSlashAfterDirectory": false,
+	"typescript.check.npmIsInstalled": false,
+	"window.nativeTabs": false,
+	"tslint.nodePath": "/usr/local/opt/node@6/bin/node",
+	"eslint.nodePath": "/usr/local/opt/node@6/bin/node",
+	"git.path": "/usr/local/bin/git",
+	"workbench.startupEditor": "newUntitledFile"
 }
