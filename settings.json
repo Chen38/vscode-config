@@ -23,8 +23,9 @@
 	"path-intellisense.autoSlashAfterDirectory": false,
 	"typescript.check.npmIsInstalled": false,
 	"window.nativeTabs": false,
-	"tslint.nodePath": "/usr/local/opt/node@6/bin/node",
-	"eslint.nodePath": "/usr/local/opt/node@6/bin/node",
+	"tslint.nodePath": "/usr/local/opt/${node_version}/bin/node",
+	"eslint.nodePath": "/usr/local/opt/${node_version}/bin/node",
 	"git.path": "/usr/local/bin/git",
-	"workbench.startupEditor": "newUntitledFile"
+	"workbench.startupEditor": "newUntitledFile",
+	"javascript.implicitProjectConfig.experimentalDecorators": true
 }
