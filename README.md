@@ -7,7 +7,6 @@
 - [Path Intellisense][2]
 - [Beautify][3]
 - [ESLint][5]
-- [Vue Components][6]
 - [Auto Rename Tag][7]
 - [EditorConfig for VS Code][8]
 - [ESLint][9]
@@ -21,16 +20,15 @@
 
 #### 喜欢的主题
 
-- Dark+ (default dark)
-- [Atom One Dark][18]
+- Dark+ (default theme)
 
 [2]: https://github.com/ChristianKohler/PathIntellisense
 [3]: https://github.com/HookyQR/VSCodeBeautify
 [5]: https://github.com/Microsoft/vscode-eslint
-[6]: https://github.com/vuejs/vue-syntax-highlight
 [7]: https://github.com/formulahendry/vscode-auto-rename-tag
 [8]: https://github.com/editorconfig/editorconfig-vscode
 [9]: https://github.com/Microsoft/vscode-eslint
 [14]: https://github.com/mrmlnc/vscode-scss
 [16]: https://github.com/sandy081/vscode-todotasks
 [17]: https://github.com/Microsoft/vscode-tslint
+
