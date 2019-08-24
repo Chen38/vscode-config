@@ -4,15 +4,16 @@
 
 #### 安装的插件
 
-- [Path Intellisense][2]
-- [Beautify][3]
-- [ESLint][5]
-- [Auto Rename Tag][7]
-- [EditorConfig for VS Code][8]
-- [ESLint][9]
-- [Scss IntelliSense][14]
-- [To Do Tasks][16]
-- [TSLint][17]
+- [Path Intellisense][1]
+- [Beautify][2]
+- [Auto Rename Tag][4]
+- [EditorConfig for VS Code][5]
+- [ESLint][6]
+- [Scss IntelliSense][7]
+- [TSLint][8]
+- [TODO Hightlight][9]
+- [vscode-icons][10]
+- [Code Spell Checker][11]
 
 #### 快捷键的重新绑定
 
@@ -22,13 +23,13 @@
 
 - Dark+ (default theme)
 
-[2]: https://github.com/ChristianKohler/PathIntellisense
-[3]: https://github.com/HookyQR/VSCodeBeautify
-[5]: https://github.com/Microsoft/vscode-eslint
-[7]: https://github.com/formulahendry/vscode-auto-rename-tag
-[8]: https://github.com/editorconfig/editorconfig-vscode
-[9]: https://github.com/Microsoft/vscode-eslint
-[14]: https://github.com/mrmlnc/vscode-scss
-[16]: https://github.com/sandy081/vscode-todotasks
-[17]: https://github.com/Microsoft/vscode-tslint
-
+[1]: https://github.com/ChristianKohler/PathIntellisense
+[2]: https://github.com/HookyQR/VSCodeBeautify
+[4]: https://github.com/formulahendry/vscode-auto-rename-tag
+[5]: https://github.com/editorconfig/editorconfig-vscode
+[6]: https://github.com/Microsoft/vscode-eslint
+[7]: https://github.com/mrmlnc/vscode-scss
+[8]: https://github.com/Microsoft/vscode-tslint
+[9]: https://github.com/wayou/vscode-todo-highlight
+[10]: https://github.com/vscode-icons/vscode-icons
+[11]: https://github.com/streetsidesoftware/vscode-spell-checker
